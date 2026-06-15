@@ -30,4 +30,4 @@ Bu proje kapsamında geliştirilen offline asistan:
 - Sesli komut desteği
 - GUI masaüstü widget
 - Yerel mini LLM entegrasyonu
-- Sistem komutlarını çalıştırabilme
+- Sistem komutlarını çalıştırabilme 
