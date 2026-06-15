@@ -57,4 +57,4 @@ Bu proje, 2026 Pardus Hata Yakalama ve Öneri Yarışması kapsamında ÇalıPar
 
 ## Lisans
 
-MIT License
+MIT License 
